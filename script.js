@@ -42,4 +42,8 @@ function adicionarTarefas(){
 }
 
 
+function deletarTarefa(){
+    alert("teste delete")
+}
+
 buttonElement.onclick= adicionarTarefas;
